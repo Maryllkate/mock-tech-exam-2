@@ -2,4 +2,4 @@ To start using the built-in tests, run <code>npm install</code> first then issue
 
 WARNING: Do not change any code inside <code>test.js</code>.
 
-[Link to Solution](https://gitlab.com/zuitt-coding-bootcamp-curricula/courses/wdc028v1.5a/-/tree/main/fullstack/s52-solution)
+[Link to Solution](https://gitlab.com/zuitt-coding-bootcamp-curricula/courses/wdc028v1.5a/-/tree/main/fullstack/s54-solution)
